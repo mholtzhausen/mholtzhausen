@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
 - 🔭 I’m currently working for **Superbalist**
 - 🌱 I’m currently learning `Groovy` `Typescript`
