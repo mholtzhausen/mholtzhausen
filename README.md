@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://hitcounter.pythonanywhere.com/nocount/tag.svg)
 
 - 🔭 I’m currently working for **Superbalist**
 - 🌱 I’m currently learning `Groovy` `Typescript`
